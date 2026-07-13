@@ -1,17 +1,19 @@
 # Olá, me chamo Vinicius! 👋
 
-**Desenvolvedor de Software em Formação | Java · Python · JavaScript**
+**Desenvolvedor de Software em Formação | Node.js · Java · Python · JavaScript**
 
-Profissional formado em Administração pela UEL, com experiência sólida em análise de dados, gestão de processos e metodologias ágeis, migrando para o desenvolvimento de software. Cursando **Análise e Desenvolvimento de Sistemas** na Unifil. Atualmente na **Tata Consultancy Services (TCS)**, onde já aplico programação no ambiente corporativo — desenvolvi automação em Python e desenvolvi um agente de IA para auxílio de operações, com resultado de +40% em indicador de qualidade operacional. Buscando estágio ou vaga júnior para expandir minha atuação na área de desenvolvimento.
+Profissional formado em Administração pela UEL, com experiência sólida em análise de dados, gestão de processos e metodologias ágeis, migrando para o desenvolvimento de software. Cursando **Análise e Desenvolvimento de Sistemas** na Unifil. Atualmente atuo como **Analista de Desenvolvimento Trainee na AEBEL** (Associação Evangélica Beneficente de Londrina, maior grupo de saúde do Norte do Paraná), desenvolvendo com **Node.js** e realizando integrações de sistemas. Antes disso, apliquei programação no ambiente corporativo da TCS, onde desenvolvi automação em Python e um agente de IA para auxílio de operações, com resultado de +40% em indicador de qualidade operacional.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,6 +26,8 @@ Profissional formado em Administração pela UEL, com experiência sólida em an
 
 ## 📌 O que estou construindo
 
+- 🏥 **Integrações de Sistemas (AEBEL)** — desenvolvimento com Node.js aplicado ao ambiente hospitalar/corporativo, conectando sistemas internos
+- 👕 **Midiadrop** — e-commerce boutique de camisas de time de futebol, com backend Node.js/Express e PostgreSQL, frontend React/TypeScript, seguindo metodologia Spec-Driven Development (SDD)
 - ⚽ **Bolão Copa 2026** — plataforma full-stack com Java, Spring Boot, React/TypeScript, PostgreSQL e Docker. Autenticação JWT, fase de grupos, mata-mata e ranking em tempo real
 - 🤖 **Automação de Inscrições via WhatsApp** — sistema em Python que valida comprovantes PIX via OCR e registra inscrições no Google Sheets automaticamente, com deploy em Docker
 - 🔧 **Automação Corporativa (TCS)** — ferramenta em Python para captura e organização de evidências operacionais, aplicada em ambiente de BPO real
