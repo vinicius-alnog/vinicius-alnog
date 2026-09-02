@@ -11,9 +11,6 @@
   <a href="mailto:vinicius.alnog@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-vinicius.alnog%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="https://github.com/vinicius-alnog?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios">
-  </a>
 </p>
 
 ## Sobre mim
